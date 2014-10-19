@@ -1,0 +1,14 @@
+.chromeframe{
+	text-align:center;
+	padding:5px 20px;
+	line-height:20px;
+	font-size:12px;
+	font-weight:normal;
+	font-family:sans-serif;
+	background:#ffd;
+	color:#000;
+}
+.chromeframe a{
+	text-decoration:underline;
+	color:#000;
+}
